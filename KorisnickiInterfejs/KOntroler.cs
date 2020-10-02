@@ -658,32 +658,32 @@ namespace Klijent
             {
                 MessageBox.Show("Sistem je zapamtio narucioca!");
 
-                //if (ProveriKorisnika())
-                //{
-                //    try
-                //    {
-                //        MailMessage msg = new MailMessage();
-                //        msg.From = new MailAddress("mail");
-                //        msg.To.Add("narucilac.Email");
-                //        msg.Subject = "Nalog za aplikaciju";
-                //        msg.Body = "Narucilac: " + narucilac.Naziv + "\nKorisnicko ime: " + narucilac.Email + "\nLozinka: " + narucilac.Lozinka + "\nSavetujemo da nakon logovanja na vasem profilu promenite lozinku.\nPozdrav!";
+                if (ProveriKorisnika())
+                {
+                    try
+                    {
+                        MailMessage msg = new MailMessage();
+                        msg.From = new MailAddress("mail");
+                        msg.To.Add("narucilac.Email");
+                        msg.Subject = "Nalog za aplikaciju";
+                        msg.Body = "Narucilac: " + narucilac.Naziv + "\nKorisnicko ime: " + narucilac.Email + "\nLozinka: " + narucilac.Lozinka + "\nSavetujemo da nakon logovanja na vasem profilu promenite lozinku.\nPozdrav!";
 
-                //        SmtpClient smt = new SmtpClient();
-                //        smt.Host = "smtp.gmail.com";
-                //        System.Net.NetworkCredential ntcd = new NetworkCredential();
-                //        ntcd.UserName = "mail";
-                //        ntcd.Password = "password";
-                //        smt.Credentials = ntcd;
-                //        smt.EnableSsl = true;
-                //        smt.Port = 587;
-                //        smt.Send(msg);
+                        SmtpClient smt = new SmtpClient();
+                        smt.Host = "smtp.gmail.com";
+                        System.Net.NetworkCredential ntcd = new NetworkCredential();
+                        ntcd.UserName = "mail";
+                        ntcd.Password = "password";
+                        smt.Credentials = ntcd;
+                        smt.EnableSsl = true;
+                        smt.Port = 587;
+                        smt.Send(msg);
 
-                //    }
-                //    catch (Exception ex)
-                //    {
-                //        MessageBox.Show(ex.Message);
-                //    }
-                //}
+                    }
+                    catch (Exception ex)
+                    {
+                        MessageBox.Show(ex.Message);
+                    }
+                }
 
                 return true;
             }
