@@ -663,8 +663,8 @@ namespace Klijent
                 //    try
                 //    {
                 //        MailMessage msg = new MailMessage();
-                //        msg.From = new MailAddress("sportexapp.4@gmail.com");
-                //        msg.To.Add("bum.bum4@outlook.com");
+                //        msg.From = new MailAddress("mail");
+                //        msg.To.Add("narucilac.Email");
                 //        msg.Subject = "Nalog za aplikaciju";
                 //        msg.Body = "Narucilac: " + narucilac.Naziv + "\nKorisnicko ime: " + narucilac.Email + "\nLozinka: " + narucilac.Lozinka + "\nSavetujemo da nakon logovanja na vasem profilu promenite lozinku.\nPozdrav!";
 
