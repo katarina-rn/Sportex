@@ -1,0 +1,16 @@
+C:\Users\Katarina\source\repos\Projekat\BrokerBazePodataka\obj\Debug\BrokerBazePodataka.csprojAssemblyReference.cache
+C:\Users\Katarina\source\repos\Projekat\BrokerBazePodataka\bin\Debug\BrokerBazePodataka.dll
+C:\Users\Katarina\source\repos\Projekat\BrokerBazePodataka\bin\Debug\BrokerBazePodataka.pdb
+C:\Users\Katarina\source\repos\Projekat\BrokerBazePodataka\bin\Debug\Domen.dll
+C:\Users\Katarina\source\repos\Projekat\BrokerBazePodataka\bin\Debug\Domen.pdb
+C:\Users\Katarina\source\repos\Projekat\BrokerBazePodataka\obj\Debug\BrokerBazePodataka.csproj.CopyComplete
+C:\Users\Katarina\source\repos\Projekat\BrokerBazePodataka\obj\Debug\BrokerBazePodataka.dll
+C:\Users\Katarina\source\repos\Projekat\BrokerBazePodataka\obj\Debug\BrokerBazePodataka.pdb
+C:\Users\Katarina\source\repos\Sportex\BrokerBazePodataka\bin\Debug\BrokerBazePodataka.dll
+C:\Users\Katarina\source\repos\Sportex\BrokerBazePodataka\bin\Debug\BrokerBazePodataka.pdb
+C:\Users\Katarina\source\repos\Sportex\BrokerBazePodataka\bin\Debug\Domen.dll
+C:\Users\Katarina\source\repos\Sportex\BrokerBazePodataka\bin\Debug\Domen.pdb
+C:\Users\Katarina\source\repos\Sportex\BrokerBazePodataka\obj\Debug\BrokerBazePodataka.csprojAssemblyReference.cache
+C:\Users\Katarina\source\repos\Sportex\BrokerBazePodataka\obj\Debug\BrokerBazePodataka.csproj.CopyComplete
+C:\Users\Katarina\source\repos\Sportex\BrokerBazePodataka\obj\Debug\BrokerBazePodataka.dll
+C:\Users\Katarina\source\repos\Sportex\BrokerBazePodataka\obj\Debug\BrokerBazePodataka.pdb

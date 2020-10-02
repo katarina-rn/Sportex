@@ -1,0 +1,36 @@
+C:\Users\Katarina\source\repos\Projekat – kopija\KontrolerAL\bin\Debug\KontrolerAL.dll
+C:\Users\Katarina\source\repos\Projekat – kopija\KontrolerAL\bin\Debug\KontrolerAL.pdb
+C:\Users\Katarina\source\repos\Projekat – kopija\KontrolerAL\bin\Debug\BrokerBazePodataka.dll
+C:\Users\Katarina\source\repos\Projekat – kopija\KontrolerAL\bin\Debug\Domen.dll
+C:\Users\Katarina\source\repos\Projekat – kopija\KontrolerAL\bin\Debug\SistemskeOperacije.dll
+C:\Users\Katarina\source\repos\Projekat – kopija\KontrolerAL\bin\Debug\BrokerBazePodataka.pdb
+C:\Users\Katarina\source\repos\Projekat – kopija\KontrolerAL\bin\Debug\Domen.pdb
+C:\Users\Katarina\source\repos\Projekat – kopija\KontrolerAL\bin\Debug\SistemskeOperacije.pdb
+C:\Users\Katarina\source\repos\Projekat – kopija\KontrolerAL\obj\Debug\KontrolerAL.csprojAssemblyReference.cache
+C:\Users\Katarina\source\repos\Projekat – kopija\KontrolerAL\obj\Debug\KontrolerAL.csproj.CopyComplete
+C:\Users\Katarina\source\repos\Projekat – kopija\KontrolerAL\obj\Debug\KontrolerAL.dll
+C:\Users\Katarina\source\repos\Projekat – kopija\KontrolerAL\obj\Debug\KontrolerAL.pdb
+C:\Users\Katarina\source\repos\Projekat\KontrolerAL\bin\Debug\KontrolerAL.dll
+C:\Users\Katarina\source\repos\Projekat\KontrolerAL\bin\Debug\KontrolerAL.pdb
+C:\Users\Katarina\source\repos\Projekat\KontrolerAL\bin\Debug\BrokerBazePodataka.dll
+C:\Users\Katarina\source\repos\Projekat\KontrolerAL\bin\Debug\Domen.dll
+C:\Users\Katarina\source\repos\Projekat\KontrolerAL\bin\Debug\SistemskeOperacije.dll
+C:\Users\Katarina\source\repos\Projekat\KontrolerAL\bin\Debug\BrokerBazePodataka.pdb
+C:\Users\Katarina\source\repos\Projekat\KontrolerAL\bin\Debug\Domen.pdb
+C:\Users\Katarina\source\repos\Projekat\KontrolerAL\bin\Debug\SistemskeOperacije.pdb
+C:\Users\Katarina\source\repos\Projekat\KontrolerAL\obj\Debug\KontrolerAL.csprojAssemblyReference.cache
+C:\Users\Katarina\source\repos\Projekat\KontrolerAL\obj\Debug\KontrolerAL.csproj.CopyComplete
+C:\Users\Katarina\source\repos\Projekat\KontrolerAL\obj\Debug\KontrolerAL.dll
+C:\Users\Katarina\source\repos\Projekat\KontrolerAL\obj\Debug\KontrolerAL.pdb
+C:\Users\Katarina\source\repos\Sportex\KontrolerAL\bin\Debug\KontrolerAL.dll
+C:\Users\Katarina\source\repos\Sportex\KontrolerAL\bin\Debug\KontrolerAL.pdb
+C:\Users\Katarina\source\repos\Sportex\KontrolerAL\bin\Debug\BrokerBazePodataka.dll
+C:\Users\Katarina\source\repos\Sportex\KontrolerAL\bin\Debug\Domen.dll
+C:\Users\Katarina\source\repos\Sportex\KontrolerAL\bin\Debug\SistemskeOperacije.dll
+C:\Users\Katarina\source\repos\Sportex\KontrolerAL\bin\Debug\BrokerBazePodataka.pdb
+C:\Users\Katarina\source\repos\Sportex\KontrolerAL\bin\Debug\Domen.pdb
+C:\Users\Katarina\source\repos\Sportex\KontrolerAL\bin\Debug\SistemskeOperacije.pdb
+C:\Users\Katarina\source\repos\Sportex\KontrolerAL\obj\Debug\KontrolerAL.csprojAssemblyReference.cache
+C:\Users\Katarina\source\repos\Sportex\KontrolerAL\obj\Debug\KontrolerAL.csproj.CopyComplete
+C:\Users\Katarina\source\repos\Sportex\KontrolerAL\obj\Debug\KontrolerAL.dll
+C:\Users\Katarina\source\repos\Sportex\KontrolerAL\obj\Debug\KontrolerAL.pdb

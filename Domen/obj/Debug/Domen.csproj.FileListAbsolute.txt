@@ -1,0 +1,10 @@
+C:\Users\Katarina\source\repos\Projekat\Domen\bin\Debug\Domen.dll
+C:\Users\Katarina\source\repos\Projekat\Domen\bin\Debug\Domen.pdb
+C:\Users\Katarina\source\repos\Projekat\Domen\obj\Debug\Domen.dll
+C:\Users\Katarina\source\repos\Projekat\Domen\obj\Debug\Domen.pdb
+C:\Users\Katarina\source\repos\Projekat\Domen\obj\Debug\Domen.csprojAssemblyReference.cache
+C:\Users\Katarina\source\repos\Sportex\Domen\bin\Debug\Domen.dll
+C:\Users\Katarina\source\repos\Sportex\Domen\bin\Debug\Domen.pdb
+C:\Users\Katarina\source\repos\Sportex\Domen\obj\Debug\Domen.csprojAssemblyReference.cache
+C:\Users\Katarina\source\repos\Sportex\Domen\obj\Debug\Domen.dll
+C:\Users\Katarina\source\repos\Sportex\Domen\obj\Debug\Domen.pdb
